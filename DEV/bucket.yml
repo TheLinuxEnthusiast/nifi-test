@@ -1,0 +1,6 @@
+flows:
+  b7cdcda2-1fe6-44f0-9da7-825172a094d7: {ver: 1, file: Sample_NIFI_Flow.snapshot,
+    comments: '', author: anonymous, created: 1678649422246, flowName: Sample_NIFI_Flow,
+    flowDesc: First working version}
+layoutVer: 1
+bucketId: 1267c358-0a52-4a53-aa60-0fed919e2706
